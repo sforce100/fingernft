@@ -28,6 +28,7 @@ pnpm-debug.log*
 *.swp
 *.log
 *.zip
+*.iml
 .factorypath
 logs/
 .settings/
